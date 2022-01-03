@@ -73,6 +73,7 @@ function onToggle(id){
       <div>
         <h1>안녕하세요</h1>
         <p>원격저장소가 생겼습니다.</p>
+        <p>랄랄라라라라라ㅏㅏㄹ</p>
       </div>
       <GlobalStyle/>
       <TodoTemplate>
